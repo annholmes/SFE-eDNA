@@ -1,6 +1,6 @@
 # SFE-eDNA
 
-This project is summaryized here:
+This project is summarized here:
 https://gvl.ucdavis.edu/news/environmental-dna-metabarcoding-san-francisco-estuary
 
 Data consists of eDNA sample data, collection site data, and barcode sequencing data.
